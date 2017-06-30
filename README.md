@@ -50,3 +50,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * How to use AppApi
+
+# Links: 
+
+https://www.pluralsight.com/guides/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api
+
+http://blog.locaweb.com.br/artigos/ruby/apis-descomplicadas-no-rails-5-com-rails-api/

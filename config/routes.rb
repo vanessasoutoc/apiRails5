@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
 
+  resources :planos
     post 'authenticate', to: 'authentication#authenticate'
 
     resources :pets
